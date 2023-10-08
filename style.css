@@ -1,0 +1,31 @@
+#timer {
+    font-size: 48px;
+    text-align: center;
+    margin-top: 50px;
+}
+  #word {
+    font-size: 24px;
+    text-align: center;
+    margin-top: 50px;
+}
+  #input {
+    font-size: 24px;
+    text-align: center;
+    margin-top: 0px;
+    background-color: aqua;
+}
+
+  #results {
+    font-size: 24px;
+    text-align: center;
+    margin-top: 50px;
+}
+h1 {
+    text-align: center;
+}
+
+.parent {
+    display: flex;
+    justify-content: center;
+    height: 30px;
+}
